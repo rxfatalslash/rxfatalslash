@@ -43,14 +43,23 @@ Well, I'm going to tell you a little about myself in a JSON way.
         "audio": "Ableton Live"
     },
     "workstation": {
-        "motherboard": "Gigabyte B550 AORUS ELITE V2",
-        "processor": "AMD Ryzen 7 5700X",
-        "graphicsCard": "NVIDIA GeForce RTX 3060",
-        "ramModules": "Vengeance LPX 16GB@3200MHz",
-        "os": [
-            "Windows",
-            "Arch Linux"
-        ]
+        "desktop": {
+            "motherboard": "Gigabyte B550 AORUS ELITE V2",
+            "processor": "AMD Ryzen 7 5700X",
+            "graphicsCard": "NVIDIA GeForce RTX 3060",
+            "ramModules": "Vengeance LPX 16GB@3200MHz",
+            "os": "Windows"
+        },
+        "laptop": {
+            "motherboard": null,
+            "processor": "AMD Ryzen 7 5700U",
+            "graphicsCard": "Radeon Graphics",
+            "ramModules": "16GB@3200MHz DDR4",
+            "os": [
+                "Windows",
+                "Arch Linux"
+            ]
+        }
     },
     "languages": [
         "Spanish",
