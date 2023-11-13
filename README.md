@@ -36,10 +36,8 @@ Well, I'm going to tell you a little about myself in a JSON way.
             "Microsoft Powerpoint",
             "Microsoft Excel"
         ],
-        "image": [
-            "Adobe Photoshop",
-            "Adobe Premiere Pro"
-        ],
+        "image": "Adobe Photoshop",
+        "video": "Adobe Premiere Pro",
         "audio": "Ableton Live"
     },
     "workstation": {
