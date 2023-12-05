@@ -101,7 +101,7 @@ Well, I'm going to tell you a little about myself in a JSON way.
     <a href="mailto:aaronsanchezmenendez@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://rxfatalslash.github.io">
+    <a href="https://www.aaronsanchez.es">
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
 </div>
