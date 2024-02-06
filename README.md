@@ -65,35 +65,6 @@ Well, I'm going to tell you a little about myself in a JSON way.
     ]
 }
 ```
-<!-- <div id="programming">
-    <details>
-        <summary>[🔧] Tools </summary>
-        <br>
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Docker-3498DB?style=for-the-badge&logo=docker&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Apache-E34F26?style=for-the-badge&logo=apache&logoColor=white" /><br>
-    </details>
-    <details>
-        <summary>[⌨️] Programming Languages</summary>
-        <br>
-        <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" /></br>
-        <img src="https://img.shields.io/badge/PHP-00599C?style=for-the-badge&logo=php&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></br>
-        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br>
-    </details>
-</div>
-<div id="workstation">
-    <details>
-        <summary>[🖥️] Workstation</summary>
-        <br>
-        <img src="https://img.shields.io/badge/AMD-Ryzen_7_5700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"><br>
-    </details>
-</div> -->
 <div id="embles">
     <a href="https://www.linkedin.com/in/aarón-sánchez-menéndez-36537810a/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -109,3 +80,7 @@ Well, I'm going to tell you a little about myself in a JSON way.
 <div id="stats" align="center">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxfatalslash&langs_count=4&layout=compact&title_color=de0000&card_width=230&text_color=ededed&icon_color=910000&bg_color=141414&hide_border=true&locale=es&border_radius=0.9rem" />
 </div> -->
+<br>
+<div id="stats">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxfatalslash&langs_count=4&layout=compact&theme=tokyonight"/>
+</div>
