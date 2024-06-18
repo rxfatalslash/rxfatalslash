@@ -7,12 +7,17 @@ Well, I'm going to tell you a little about myself in a JSON way.
 ```json
 {
     "user": "rxfatalslash",
-    "qualification": "Network and Computer Systems Administrator",
+    "qualification": [
+        "Network and Computer Systems Administrator",
+        "Cybersecurity Specialization"
+    ],
     "tools": [
         "MySQL",
         "MariaDB",
         "Docker",
-        "Git"
+        "Git",
+        "Ansible",
+        "Jenkins"
     ],
     "coding": [
         "Bash",
@@ -22,7 +27,8 @@ Well, I'm going to tell you a little about myself in a JSON way.
         "Python",
         "JavaScript",
         "React",
-        "Rust"
+        "Rust",
+        "C"
     ],
     "workspaces": {
         "code": "Visual Studio Code",
@@ -59,10 +65,10 @@ Well, I'm going to tell you a little about myself in a JSON way.
             ]
         }
     },
-    "languages": [
-        "Spanish",
-        "English"
-    ]
+    "languages": {
+        "spanish": Native,
+        "english": B2
+    }
 }
 ```
 <div id="embles" align="center">
