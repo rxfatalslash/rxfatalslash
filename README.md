@@ -1,6 +1,6 @@
 ### Hi everyone! 👋
 
-My name is Aarón and I'm a Network and Computer Systems Administrator, I'm currently studying Cybersecurity and learning some programming languages such as Rust and C.
+My name is Aarón, I'm a Network and Computer Systems Administrator and I have just completed the Cybersecurity Specialization course. I`m learning some programming languages such as Rust and C.
 
 Well, I'm going to tell you a little about myself in a JSON way.
 
