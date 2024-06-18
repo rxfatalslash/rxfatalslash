@@ -66,8 +66,8 @@ Well, I'm going to tell you a little about myself in a JSON way.
         }
     },
     "languages": {
-        "spanish": Native,
-        "english": B2
+        "spanish": "Native",
+        "english": "B2"
     }
 }
 ```
