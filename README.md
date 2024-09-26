@@ -102,7 +102,7 @@ Well, I'm going to tell you a little about myself in a JSON way.
     </details>
 </div> -->
 <div id="embles">
-    <a href="https://www.linkedin.com/in/aarón-sánchez-menéndez-36537810a/">
+    <a href="https://www.linkedin.com/in/asanmen/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:aaronsanchezmenendez@gmail.com">
