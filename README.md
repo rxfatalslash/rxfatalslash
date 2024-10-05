@@ -112,7 +112,11 @@ Well, I'm going to tell you a little about myself in a JSON way.
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
 </div>
-<br>
+<!-- <br>
 <div id="stats" align="center">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxfatalslash&langs_count=4&layout=compact&title_color=de0000&card_width=230&text_color=ededed&icon_color=910000&bg_color=141414&hide_border=true&locale=es&border_radius=0.9rem" />
+</div> -->
+<br>
+<div id="stats" align="center">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxfatalslash&langs_count=4&layout=compact&theme=tokyonight"/>
 </div>
