@@ -50,10 +50,10 @@ Well, I'm going to tell you a little about myself in a JSON way.
     "workstation": {
         "desktop": {
             "motherboard": "Gigabyte B550 AORUS ELITE V2",
-            "processor": "AMD Ryzen 7 5700X",
-            "graphicsCard": "NVIDIA GeForce RTX 3060",
-            "ramModules": "Vengeance LPX 16GB@3200MHz",
-            "os": "Windows"
+            "processor": "AMD Ryzen 7 5800X",
+            "graphicsCard": "AMD Radeon RX 7800 XT",
+            "ramModules": "Kingston FURY Beast DDR4 32GB@3200MHz CL16",
+            "os": "Windows 11"
         },
         "laptop": {
             "motherboard": null,
@@ -61,7 +61,7 @@ Well, I'm going to tell you a little about myself in a JSON way.
             "graphicsCard": "Radeon Graphics",
             "ramModules": "16GB@3200MHz DDR4",
             "os": [
-                "Windows",
+                "Windows 11",
                 "Arch Linux"
             ]
         }
