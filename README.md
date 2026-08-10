@@ -81,8 +81,3 @@ Here's a little about me in a JSON way.
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
 </div>
-
-<br>
-<div id="stats" align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxfatalslash&langs_count=4&layout=compact&theme=tokyonight"/>
-</div>
