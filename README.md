@@ -1,84 +1,71 @@
 ### Hi everyone! 👋
 
-My name is Aarón and I'm a Network and Computer Systems Administrator, I'm currently studying Cybersecurity and learning some programming languages such as Rust and C.
+I'm Aarón, a Cybersecurity Analyst currently working in Security Operations (SOC) and a Computer Engineering student, with a strong growing focus on Offensive Cybersecurity and Read Teaming.
 
-Well, I'm going to tell you a little about myself in a JSON way.
+Here's a little about me in a JSON way.
 
 ```json
 {
     "user": "rxfatalslash",
-    "qualification": [
-        "Network and Computer Systems Administrator",
-        "Cyber Security Analyst"
+    "role": "Cybersecurity Analyst - SOC",
+    "education": [
+        "Computer Engineering - In Progress",
+        "Cybersecurity Specialization",
+        "Networked Computer Systems Administration"
     ],
-    "tools": [
-        "MySQL",
-        "MariaDB",
+    "focus": [
+        "Offensive Security",
+        "Red Team",
+        "Pentesting"
+    ],
+    "currently_learning": [
+        "Web Application Security",
+        "Active Directory Security"
+    ],
+    "security": [
+        "CrowdStrike Falcon",
+        "Burp Suite",
+        "Nmap"
+    ],
+    "scripting": [
+        "Python",
+        "Bash"
+    ],
+    "development": [
+        "JavaScript",
+        "Node.js"
+    ],
+    "technologies": [
         "Docker",
         "Git",
-        "Fortinet",
-        "Palo Alto",
-        "Elastic Stack (ELK)",
-        "Ansible",
-        "Kubernetes",
-        "Jenkins",
-        "Docker",
-        "Falcon CrowdStrike"
+        "MySQL",
+        "MariaDB"
     ],
-    "coding": [
-        "Bash",
-        "HTML",
-        "CSS",
-        "PHP",
-        "Python",
-        "JavaScript",
-        "React",
-        "Rust"
-    ],
-    "workspaces": {
-        "code": "Visual Studio Code",
-        "virtualization": [
-            "Oracle VirtualBox",
-            "VMware Workstation"
+    "operating_systems": {
+        "Linux": [
+            "Debian",
+            "Arch Linux",
+            "Fedora"
         ],
-        "office": [
-            "Libre Office Writer",
-            "Microsoft Word",
-            "Microsoft Powerpoint",
-            "Microsoft Excel"
-        ],
-        "image": "Adobe Photoshop",
-        "video": "Adobe Premiere Pro",
-        "audio": "Ableton Live"
-    },
-    "workstation": {
-        "desktop": {
-            "motherboard": "Gigabyte B550 AORUS ELITE V2",
-            "processor": "AMD Ryzen 7 5800X",
-            "graphicsCard": "AMD Radeon RX 7800 XT",
-            "ramModules": "Kingston FURY Beast DDR4 32GB@3200MHz CL16",
-            "os": "Windows 11"
-        },
-        "laptop": {
-            "motherboard": "Unknown",
-            "processor": "AMD Ryzen 7 5700U",
-            "graphicsCard": "Radeon Graphics",
-            "ramModules": "16GB@3200MHz DDR4",
-            "os": [
-                "Windows 11",
-                "Arch Linux"
+        "Windows": {
+            "Workstation": [
+                "Windows 10",
+                "Windows 11"
+            ],
+            "Server": [
+                "Windows Server 2012",
+                "Windows Server 2019",
+                "Windows Server 2022"
             ]
         }
     },
-    "languages": [
-        "Spanish",
-        "English"
-    ],
-    "hobbies": [
-        "Coding",
-        "Pentesting",
-        "Gaming",
-        "Sport"
+    "languages": {
+        "Spanish": "Native",
+        "English": "B2 - Upper-Intermediate"
+    },
+    "interests": [
+        "Security Research",
+        "Homelabbing"
     ]
 }
 ```
@@ -90,7 +77,7 @@ Well, I'm going to tell you a little about myself in a JSON way.
     <a href="mailto:aaronsanchezmenendez@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://rxfatalslash.github.io">
+    <a href="https://www.ringzero.es">
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
 </div>
